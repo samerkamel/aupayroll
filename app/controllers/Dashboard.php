@@ -12,7 +12,7 @@ class Dashboard extends CI_Controller{
  }
  public function index()
  {
-  if(($this->session->userdata('user_name')!=""))
+  if(($this->session->userdata('logged_in')==TRUE))
   {
    $this->welcome();
   }
@@ -38,10 +38,10 @@ class Dashboard extends CI_Controller{
  }
  public function welcome()
  {
-        if(($this->session->userdata('user_name')!=""))
+        if(($this->session->userdata('logged_in')==TRUE))
   {     
         $user_id = $this->session->userdata['id'];
-        $user = $this->db->get_where('users', array('id'=> $user_id));
+        $user = $this->db->get_where('employees', array('id'=> $user_id));
         $userdb = $user->row();
         $data = array('title' => 'Dashboard');
         $data['userdb']=$userdb;
@@ -63,12 +63,10 @@ class Dashboard extends CI_Controller{
 
   $result=$this->dashboard_model->login($email,$password);
   if($result)     { 
-    $query = $this->db->get_where('users', array('email' => $email),1);
+    $query = $this->db->get_where('employees', array('email' => $email),1);
     $userdata = $query->row();
     $newdata = array(
                    'id'         => $userdata->id,
-                   'username' => $userdata->username,
-                   
                    'email'     => $email,
                    'logged_in' => TRUE
                );

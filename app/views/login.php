@@ -62,52 +62,40 @@
                     <div class="panel panel-warning mt10 br-n">
 
                         <div class="panel-heading heading-border bg-white">
-                         
-               
+                          <?php echo validation_errors('<p class="error">'); ?>           
                         </div>
 
                         <!-- end .form-header section -->
-                        <form method="post" action="/" id="contact">
-                            <div class="panel-body bg-light p30">
-                                <div class="row">
-                                    <div class="col-sm-12 pr30">
-
-
-                                        <div class="section">
-                                            <label for="username" class="field-label text-muted fs18 mb10">E-Mail</label>
-                                            <label for="username" class="field prepend-icon">
-                                                <input type="text" name="email" id="email" class="gui-input" placeholder="Enter E-mail">
-                                                <label for="email" class="field-icon"><i class="fa fa-envelope"></i>
-                                                </label>
-                                            </label>
-                                        </div>
-                                        <!-- end section -->
-
-                                        <div class="section">
-                                            <label for="username" class="field-label text-muted fs18 mb10">Password</label>
-                                            <label for="password" class="field prepend-icon">
-                                                <input type="password" name="password" id="password" class="gui-input" placeholder="Enter password">
-                                                <label for="password" class="field-icon"><i class="fa fa-lock"></i>
-                                                </label>
-                                            </label>
-                                        </div>
-                                        <!-- end section -->
-
-                                    </div>
+                        <?php 
+                            $attributes = array('class' => 'panel-body wrapper-lg bg-light p30');
+                            echo form_open("Dashboard/login", $attributes); ?>
+                        <div class="form-group">
+                            <label for="email" class="field-label text-muted fs18 mb10">Email:</label>
+                            <label for="email" class="field prepend-icon">
+                                 <input type="email" placeholder="test@example.com" class="gui-input" id="email" name="email" value="" />
+                                 <label for="email" class="field-icon"><i class="fa fa-envelope"></i></label>
+                            </label>
+                            
+                        </div>
+                        <div class="form-group">
                                 
-                                </div>
-                            </div>
-                            <!-- end .form-body section -->
-                            <div class="panel-footer clearfix p10 ph15">
-                                <button type="submit" class="button btn-warning mr10 pull-right">Sign in</button>
-                                <label class="switch block switch-warning pull-left input-align mt10">
-                                    <input type="checkbox" name="remember" id="remember" checked>
-                                    <label for="remember" data-on="YES" data-off="NO"></label>
-                                    <span>Remember me</span>
-                                </label>
-                            </div>
-                            <!-- end .form-footer section -->
-                        </form>
+                               <label for="password" class="field-label text-muted fs18 mb10">Password:</label>
+                               
+                            <label for="password" class="field prepend-icon">
+                                <input type="password" id="inputPassword" placeholder="Type Your password" class="gui-input" id="pass" name="pass" value="" />
+                                <label for="password" class="field-icon"><i class="fa fa-lock"></i> </label>
+                            </label>
+                        </div>
+                        <div class="panel-footer clearfix p10 ph15">
+                            <button type="submit" class="button btn-warning mr10 pull-right">Sign In</button>
+                            <label class="switch block switch-warning pull-left input-align mt10">
+                                <input type="checkbox" name="remember" id="remember" checked>
+                                <label for="remember" data-on="YES" data-off="NO"></label>
+                                <span>Remember me</span>
+                            </label>
+                        </div>
+                            <?php echo form_close(); ?>
+                
                     </div>
                 </div>
 
