@@ -1,0 +1,6 @@
+[23-Dec-2014 14:31:39 UTC] PHP Notice:  Use of undefined constant E_NONE - assumed 'E_NONE' in /home/streetlightc/public_html/atumv0/install/index.php on line 3
+[23-Dec-2014 14:31:39 UTC] PHP Stack trace:
+[23-Dec-2014 14:31:39 UTC] PHP   1. {main}() /home/streetlightc/public_html/atumv0/install/index.php:0
+[23-Dec-2014 14:31:54 UTC] PHP Notice:  Use of undefined constant E_NONE - assumed 'E_NONE' in /home/streetlightc/public_html/atumv0/install/index.php on line 3
+[23-Dec-2014 14:31:54 UTC] PHP Stack trace:
+[23-Dec-2014 14:31:54 UTC] PHP   1. {main}() /home/streetlightc/public_html/atumv0/install/index.php:0
