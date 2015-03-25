@@ -1170,3 +1170,276 @@ DEBUG - 2015-03-24 20:36:06 --> Global POST, GET and COOKIE data sanitized
 DEBUG - 2015-03-24 20:36:06 --> Session class already loaded. Second attempt ignored.
 ERROR - 2015-03-24 20:36:06 --> Language file contains no data: language/english/default_lang.php
 DEBUG - 2015-03-24 20:36:06 --> Total execution time: 0.0331
+DEBUG - 2015-03-24 21:07:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:07:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:07:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:07:06 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:07:06 --> Total execution time: 0.0612
+DEBUG - 2015-03-24 21:07:57 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:07:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:07:57 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:07:57 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:07:57 --> Total execution time: 0.0341
+DEBUG - 2015-03-24 21:07:58 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:07:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:07:58 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:07:58 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:07:58 --> Total execution time: 0.0347
+DEBUG - 2015-03-24 21:08:05 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:08:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:08:05 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:08:05 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:08:05 --> Total execution time: 0.0334
+DEBUG - 2015-03-24 21:08:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:08:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:08:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:08:06 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:08:06 --> Total execution time: 0.0391
+DEBUG - 2015-03-24 21:08:32 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:08:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:08:32 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:08:32 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:08:32 --> Total execution time: 0.0814
+DEBUG - 2015-03-24 21:09:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:09:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:09:55 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:09:55 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:09:55 --> Total execution time: 0.0322
+DEBUG - 2015-03-24 21:10:37 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:10:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:10:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:10:37 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:10:37 --> Total execution time: 0.0339
+DEBUG - 2015-03-24 21:13:35 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:13:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:13:35 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:13:35 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:13:35 --> Total execution time: 0.0328
+DEBUG - 2015-03-24 21:14:40 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:14:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:14:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:14:40 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:14:40 --> Total execution time: 0.0335
+DEBUG - 2015-03-24 21:17:21 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:17:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:17:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:17:21 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:17:21 --> Total execution time: 0.0392
+DEBUG - 2015-03-24 21:17:42 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:17:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:17:42 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:17:42 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:17:42 --> Total execution time: 0.0338
+DEBUG - 2015-03-24 21:17:43 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:17:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:17:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:17:44 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:17:44 --> Total execution time: 0.0848
+DEBUG - 2015-03-24 21:17:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:17:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:17:52 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:17:52 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:17:52 --> Total execution time: 0.0333
+DEBUG - 2015-03-24 21:17:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:17:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:17:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:17:53 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:17:53 --> Total execution time: 0.0449
+DEBUG - 2015-03-24 21:18:03 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:18:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:18:03 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:18:03 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:18:03 --> Total execution time: 0.0336
+DEBUG - 2015-03-24 21:18:04 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:18:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:18:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:18:04 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:18:04 --> Total execution time: 0.0343
+DEBUG - 2015-03-24 21:18:12 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:18:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:18:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:18:12 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:18:12 --> Total execution time: 0.0330
+DEBUG - 2015-03-24 21:18:21 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:18:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:18:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:18:21 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:18:21 --> Total execution time: 0.0325
+DEBUG - 2015-03-24 21:18:22 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:18:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:18:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:18:22 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:18:22 --> Total execution time: 0.0360
+DEBUG - 2015-03-24 21:18:33 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:18:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:18:33 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:18:33 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:18:33 --> Total execution time: 0.0364
+DEBUG - 2015-03-24 21:19:20 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:19:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:19:20 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:19:20 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:19:20 --> Total execution time: 0.0429
+DEBUG - 2015-03-24 21:23:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:23:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:23:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:23:53 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:23:53 --> Total execution time: 0.0332
+DEBUG - 2015-03-24 21:24:28 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:24:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:24:28 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:24:28 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:24:28 --> Total execution time: 0.0336
+DEBUG - 2015-03-24 21:24:59 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:24:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:24:59 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:24:59 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:24:59 --> Total execution time: 0.0328
+DEBUG - 2015-03-24 21:25:29 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:25:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:25:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:25:29 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:25:29 --> Total execution time: 0.0340
+DEBUG - 2015-03-24 21:25:58 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:25:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:25:58 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:25:58 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:25:58 --> Total execution time: 0.0343
+DEBUG - 2015-03-24 21:26:01 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:26:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:26:01 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:26:01 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:26:01 --> Total execution time: 0.0331
+DEBUG - 2015-03-24 21:26:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:26:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:26:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:26:54 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:26:54 --> Total execution time: 0.0329
+DEBUG - 2015-03-24 21:27:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:27:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:27:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:27:06 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:27:06 --> Total execution time: 0.0323
+DEBUG - 2015-03-24 21:27:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:27:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:27:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:27:54 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:27:54 --> Total execution time: 0.0332
+DEBUG - 2015-03-24 21:28:08 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:28:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:28:08 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:28:08 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:28:08 --> Total execution time: 0.0324
+DEBUG - 2015-03-24 21:28:29 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:28:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:28:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:28:29 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:28:29 --> Total execution time: 0.0361
+DEBUG - 2015-03-24 21:28:37 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:28:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:28:38 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:28:38 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:28:38 --> Total execution time: 0.0340
+DEBUG - 2015-03-24 21:28:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:28:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:28:52 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:28:52 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:28:52 --> Total execution time: 0.0377
+DEBUG - 2015-03-24 21:28:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:28:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:28:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:28:53 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:28:53 --> Total execution time: 0.0439
+DEBUG - 2015-03-24 21:29:38 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:29:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:29:38 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:29:38 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:29:38 --> Total execution time: 0.0344
+DEBUG - 2015-03-24 21:30:41 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:30:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-03-24 21:30:41 --> 404 Page Not Found: Dashboardhtml/index
+DEBUG - 2015-03-24 21:30:44 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:30:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:30:44 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:30:44 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:30:44 --> Total execution time: 0.0335
+DEBUG - 2015-03-24 21:30:56 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:30:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:30:56 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:30:56 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:30:56 --> Total execution time: 0.0324
+DEBUG - 2015-03-24 21:31:00 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:31:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:31:00 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:31:00 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:31:00 --> Total execution time: 0.0363
+DEBUG - 2015-03-24 21:31:02 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:31:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:31:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:31:02 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:31:02 --> Total execution time: 0.0379
+DEBUG - 2015-03-24 21:31:04 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:31:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:31:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:31:04 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:31:04 --> Total execution time: 0.0355
+DEBUG - 2015-03-24 21:32:28 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:32:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:32:28 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:32:28 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:32:28 --> Total execution time: 0.0323
+DEBUG - 2015-03-24 21:32:30 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:32:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:32:30 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:32:30 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:32:30 --> Total execution time: 0.0320
+DEBUG - 2015-03-24 21:33:26 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:33:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:33:26 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:33:26 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:33:26 --> Total execution time: 0.0329
+DEBUG - 2015-03-24 21:34:12 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:34:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:34:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:34:12 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:34:12 --> Total execution time: 0.0326
+DEBUG - 2015-03-24 21:35:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:35:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:35:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:35:06 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:35:06 --> Total execution time: 0.0341
+DEBUG - 2015-03-24 21:35:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:35:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:35:06 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:35:06 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:35:06 --> Total execution time: 0.0484
+DEBUG - 2015-03-24 21:35:12 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:35:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:35:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:35:12 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:35:12 --> Total execution time: 0.0334
+DEBUG - 2015-03-24 21:35:45 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:35:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:35:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:35:45 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:35:45 --> Total execution time: 0.0342
+DEBUG - 2015-03-24 21:36:18 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:36:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:36:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:36:18 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:36:18 --> Total execution time: 0.0331
+DEBUG - 2015-03-24 21:37:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 21:37:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 21:37:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 21:37:54 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 21:37:54 --> Total execution time: 0.0334
+DEBUG - 2015-03-24 22:53:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 22:53:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 22:53:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 22:53:53 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 22:53:53 --> Total execution time: 0.0327
+DEBUG - 2015-03-24 22:54:30 --> UTF-8 Support Enabled
+DEBUG - 2015-03-24 22:54:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-03-24 22:54:30 --> Session class already loaded. Second attempt ignored.
+ERROR - 2015-03-24 22:54:30 --> Language file contains no data: language/english/default_lang.php
+DEBUG - 2015-03-24 22:54:30 --> Total execution time: 0.0363

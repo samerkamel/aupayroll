@@ -1,39 +1,39 @@
 <div id="topbar-dropmenu">
                 <div class="topbar-menu row">
                     <div class="col-xs-4 col-sm-2">
-                        <a href="#" class="metro-tile bg-success">
-                            <span class="metro-icon glyphicons glyphicons-inbox"></span>
-                            <p class="metro-title">Messages</p>
-                        </a>
-                    </div>
-                    <div class="col-xs-4 col-sm-2">
-                        <a href="#" class="metro-tile bg-info">
-                            <span class="metro-icon glyphicons glyphicons-parents"></span>
-                            <p class="metro-title">Users</p>
-                        </a>
-                    </div>
-                    <div class="col-xs-4 col-sm-2">
-                        <a href="#" class="metro-tile bg-alert">
-                            <span class="metro-icon glyphicons glyphicons-headset"></span>
-                            <p class="metro-title">Support</p>
-                        </a>
-                    </div>
-                    <div class="col-xs-4 col-sm-2">
-                        <a href="#" class="metro-tile bg-primary">
-                            <span class="metro-icon glyphicons glyphicons-cogwheels"></span>
-                            <p class="metro-title">Settings</p>
+                        <a href="#" class="metro-tile bg-warning">
+                            <span class="metro-icon glyphicons glyphicons-building"></span>
+                            <p class="metro-title">Add Department</p>
                         </a>
                     </div>
                     <div class="col-xs-4 col-sm-2">
                         <a href="#" class="metro-tile bg-warning">
-                            <span class="metro-icon glyphicons glyphicons-facetime_video"></span>
-                            <p class="metro-title">Videos</p>
+                            <span class="metro-icon glyphicons glyphicons-user_add"></span>
+                            <p class="metro-title">Add Employee</p>
                         </a>
                     </div>
                     <div class="col-xs-4 col-sm-2">
-                        <a href="#" class="metro-tile bg-system">
-                            <span class="metro-icon glyphicons glyphicons-picture"></span>
-                            <p class="metro-title">Pictures</p>
+                        <a href="#" class="metro-tile bg-warning">
+                            <span class="metro-icon fa fa-calendar"></span>
+                            <p class="metro-title">Add Holiday</p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4 col-sm-2">
+                        <a href="#" class="metro-tile bg-warning">
+                            <span class="metro-icon fa fa-bullhorn"></span>
+                            <p class="metro-title">Add Announcement</p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4 col-sm-2">
+                        <a href="#" class="metro-tile bg-warning">
+                            <span class="metro-icon glyphicons glyphicons-google_maps"></span>
+                            <p class="metro-title">Add Location</p>
+                        </a>
+                    </div>
+                    <div class="col-xs-4 col-sm-2">
+                        <a href="#" class="metro-tile bg-warning">
+                            <span class="metro-icon glyphicons glyphicons-keys"></span>
+                            <p class="metro-title">Add Access Level</p>
                         </a>
                     </div>
                 </div>

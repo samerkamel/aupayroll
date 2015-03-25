@@ -1,6 +1,6 @@
 <header class="navbar navbar-fixed-top bg-light">
             <div class="navbar-branding">
-                <a class="navbar-brand" href="dashboard.html"> <b>Aura</b>P@yroll
+                <a class="navbar-brand" href="dashboard"> <b>Aura</b>P@yroll
                 </a>
                 <span id="toggle_sidemenu_l" class="glyphicons glyphicons-show_lines"></span>
                 <ul class="nav navbar-nav pull-right hidden">
@@ -19,13 +19,13 @@
                 </li>
                 <li>
                     <a class="topbar-menu-toggle" href="#">
-                        <span class="glyphicons glyphicons-magic fs16"></span>
+                        <span class="glyphicons glyphicons-circle_plus fs16"></span>
                     </a>
                 </li>
                 <li>
                     <span id="toggle_sidemenu_l2" class="glyphicon glyphicon-log-in fa-flip-horizontal hidden"></span>
                 </li>
-                <li class="dropdown hidden">
+                <li class="dropdown ">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                         <span class="glyphicons glyphicons-settings fs14"></span>
                     </a>
@@ -51,7 +51,7 @@
                 </li>
                 <li class="hidden-xs">
                     <a class="request-fullscreen toggle-active" href="#">
-                        <span class="octicon octicon-screen-full fs18"></span>
+                        <span class="glyphicons glyphicons-fullscreen fs18"></span>
                     </a>
                 </li>
             </ul>

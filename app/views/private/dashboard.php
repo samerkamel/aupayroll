@@ -75,18 +75,18 @@
                     <div class="col-md-3">
                         <div class="panel bg-alert light of-h mb10">
                             <div class="pn pl20 p5">
-                                <div class="icon-bg"> <i class="fa fa-comments-o"></i> </div>
-                                <h2 class="mt15 lh15"> <b>523</b> </h2>
-                                <h5 class="text-muted">Comments</h5>
+                                <div class="icon-bg"> <i class="fa fa-building"></i> </div>
+                                <h2 class="mt15 lh15"> <b>17</b> </h2>
+                                <h5 class="text-muted">Departments</h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="panel bg-info light of-h mb10">
                             <div class="pn pl20 p5">
-                                <div class="icon-bg"> <i class="fa fa-twitter"></i> </div>
-                                <h2 class="mt15 lh15"> <b>348</b> </h2>
-                                <h5 class="text-muted">Tweets</h5>
+                                <div class="icon-bg"> <i class="fa fa-users"></i> </div>
+                                <h2 class="mt15 lh15"> <b>173</b> </h2>
+                                <h5 class="text-muted">Employees</h5>
                             </div>
                         </div>
                     </div>
@@ -100,11 +100,11 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <div class="panel bg-warning light of-h mb10">
+                        <div class="panel bg-primary light of-h mb10">
                             <div class="pn pl20 p5">
-                                <div class="icon-bg"> <i class="fa fa-envelope"></i> </div>
-                                <h2 class="mt15 lh15"> <b>714</b> </h2>
-                                <h5 class="text-muted">Comments</h5>
+                                <div class="icon-bg"> <i class="fa fa-clock-o"></i> </div>
+                                <h2 class="mt15 lh15"> <b>192</b> </h2>
+                                <h5 class="text-muted">Month Working Hours</h5>
                             </div>
                         </div>
                     </div>
